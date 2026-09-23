@@ -1,6 +1,6 @@
 # sticky-ruling
 
-**A Claude Code skill that keeps a decision on screen without stopping the work.**
+**A subagent lane for the human in the loop.** Claude hands you a decision the way it hands a job to a background agent, keeps working, and picks up your answer when it comes back.
 
 ![A sticky ruling window](docs/screenshot.png)
 
