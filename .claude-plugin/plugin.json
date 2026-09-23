@@ -1,0 +1,10 @@
+{
+  "name": "sticky-ruling",
+  "displayName": "Sticky Ruling",
+  "version": "1.0.0",
+  "description": "Keeps a decision on screen in an always-on-top window while the Claude Code session keeps working. No scrolled-away options, no frozen sessions.",
+  "author": {"name": "DrEvil", "url": "https://github.com/DrEvil-TitaniumHelix"},
+  "license": "MIT",
+  "repository": "https://github.com/DrEvil-TitaniumHelix/sticky-ruling",
+  "keywords": ["decision", "ask-user", "background-agents", "non-blocking"]
+}

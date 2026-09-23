@@ -23,11 +23,20 @@ Claude posts the ruling to a small always-on-top window and **keeps working** on
 
 ## Install
 
+**As a plugin** (recommended, gets updates). Inside Claude Code:
+
+```
+/plugin marketplace add DrEvil-TitaniumHelix/sticky-ruling
+/plugin install sticky-ruling@sticky-ruling
+```
+
+**Or as a plain skill:**
+
 ```
 git clone https://github.com/DrEvil-TitaniumHelix/sticky-ruling ~/.claude/skills/sticky-ruling
 ```
 
-Needs Python 3 with tkinter (included with the python.org Windows installer). Restart Claude Code or start a new session, and the skill appears.
+Needs Python 3 with tkinter (included with the python.org Windows installer). Start a new Claude Code session and the skill appears.
 
 ## Use
 

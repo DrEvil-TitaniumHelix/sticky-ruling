@@ -1,0 +1,15 @@
+{
+  "name": "sticky-ruling",
+  "description": "Sticky Ruling: an always-on-top, non-blocking decision window for Claude Code, by DrEvil.",
+  "owner": {
+    "name": "DrEvil",
+    "url": "https://github.com/DrEvil-TitaniumHelix"
+  },
+  "plugins": [
+    {
+      "name": "sticky-ruling",
+      "source": "./",
+      "description": "Always-on-top, non-blocking decision window for Claude Code."
+    }
+  ]
+}
