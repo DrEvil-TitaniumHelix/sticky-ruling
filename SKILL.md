@@ -34,4 +34,4 @@ Answers clicked in the window are logged to `~/.claude/rulings/rulings.log`.
 
 - Several open rulings stack as separate windows.
 - The window's X only minimizes it. A ruling never disappears unanswered.
-- Windows only (tkinter + user32). Self-test: `python selftest.py`.
+- Needs Python 3 with tkinter. Windows is tested (the window never takes focus). macOS/Linux should work but are untested. Self-test (Windows): `python selftest.py`.
