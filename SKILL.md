@@ -12,7 +12,7 @@ Chat-text options scroll away under agent and bash output, and AskUserQuestion b
 Bash tool, `run_in_background: true`:
 
 ```
-python "~/.claude/skills/sticky-ruling/ruling.py" "Item 12 of 35" "<question + all the context needed to decide>" "A: <option + trade-off>" "B: <option + trade-off>"
+python "$HOME/.claude/skills/sticky-ruling/ruling.py" "Item 12 of 35" "<question + all the context needed to decide>" "A: <option + trade-off>" "B: <option + trade-off>"
 ```
 
 - The window alone must carry everything needed to decide. Assume the chat has scrolled away.
